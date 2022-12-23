@@ -1,0 +1,15 @@
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\obj\Debug\net7.0\zad47.csproj.AssemblyReference.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\obj\Debug\net7.0\zad47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\obj\Debug\net7.0\zad47.AssemblyInfoInputs.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\obj\Debug\net7.0\zad47.AssemblyInfo.cs
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\obj\Debug\net7.0\zad47.csproj.CoreCompileInputs.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\bin\Debug\net7.0\zad47.exe
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\bin\Debug\net7.0\zad47.deps.json
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\bin\Debug\net7.0\zad47.runtimeconfig.json
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\bin\Debug\net7.0\zad47.dll
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\bin\Debug\net7.0\zad47.pdb
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\obj\Debug\net7.0\zad47.dll
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\obj\Debug\net7.0\refint\zad47.dll
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\obj\Debug\net7.0\zad47.pdb
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\obj\Debug\net7.0\zad47.genruntimeconfig.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz7\zad47\obj\Debug\net7.0\ref\zad47.dll
